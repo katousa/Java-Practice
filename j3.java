@@ -20,8 +20,6 @@ public class Program
           System.out.print(200/houses);
         }
         else {System.out.print(200/
-        houses+1);}
-        //your code goes here
-       
+        houses+1);}
     }
 }
