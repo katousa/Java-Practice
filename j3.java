@@ -16,7 +16,7 @@ public class Program
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int houses = input.nextInt();
-         if(200%houses==0){
+        if(200%houses==0){
           System.out.print(200/houses);
         }
         else {System.out.print(200/
